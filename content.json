@@ -10,6 +10,12 @@
   "custom-field": "Est eum omnis enim i",
   "custom-object": {
     "custom-line": "Dolor esse veniam",
-    "custom-text": "Quia ratione corrupt"
+    "imageFieldExample": {
+      "provider": "uploadcare",
+      "type": "image",
+      "id": "4043df80-faca-44aa-aeec-b4e0503fbc65",
+      "height": 1000,
+      "width": 1000
+    }
   }
 }
