@@ -1,13 +1,6 @@
 {
-  "custom-list": [
-    {
-      "custom-list-item": "image"
-    },
-    {
-      "custom-list-item": "image 02"
-    }
-  ],
-  "custom-field": "Est eum omnis enim i",
+  "custom-list": [],
+  "custom-field": "Est eum omnis enim",
   "custom-object": {
     "custom-line": "Dolor esse veniam",
     "custom-text": "Quia ratione corrupt"
