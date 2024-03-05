@@ -1,5 +1,15 @@
 {
-  "custom-list": [],
+  "custom-list": [
+    {
+      "custom-list-item": "Item #1"
+    },
+    {
+      "custom-list-item": "Item #2"
+    },
+    {
+      "custom-list-item": "Item #3"
+    }
+  ],
   "custom-field": "Est eum omnis enim",
   "custom-object": {
     "custom-line": "Dolor esse veniam",
